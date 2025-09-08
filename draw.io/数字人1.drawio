@@ -117,10 +117,129 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="MZ-rnMWWsWiCWzkhqHqY-1" value="分身讲题音频" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="390" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="870" y="200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MZ-rnMWWsWiCWzkhqHqY-2" value="分身讲题音频" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="MZ-rnMWWsWiCWzkhqHqY-2" value="AI常态形象" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="120" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MZ-rnMWWsWiCWzkhqHqY-3" value="AI动作" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="120" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MZ-rnMWWsWiCWzkhqHqY-4" value="过渡态视频" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="640" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MZ-rnMWWsWiCWzkhqHqY-7" value="常态视频" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="350" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MZ-rnMWWsWiCWzkhqHqY-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MZ-rnMWWsWiCWzkhqHqY-2" target="MZ-rnMWWsWiCWzkhqHqY-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="310" as="sourcePoint" />
+            <mxPoint x="390" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZ-rnMWWsWiCWzkhqHqY-9" value="裁剪/填充" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MZ-rnMWWsWiCWzkhqHqY-8">
+          <mxGeometry x="-0.2" relative="1" as="geometry">
+            <mxPoint x="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZ-rnMWWsWiCWzkhqHqY-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MZ-rnMWWsWiCWzkhqHqY-3" target="MZ-rnMWWsWiCWzkhqHqY-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="480" as="sourcePoint" />
+            <mxPoint x="500" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="420" />
+              <mxPoint x="540" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZ-rnMWWsWiCWzkhqHqY-13" value="提取帧" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MZ-rnMWWsWiCWzkhqHqY-10">
+          <mxGeometry x="-0.4913" y="3" relative="1" as="geometry">
+            <mxPoint x="143" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZ-rnMWWsWiCWzkhqHqY-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MZ-rnMWWsWiCWzkhqHqY-7" target="MZ-rnMWWsWiCWzkhqHqY-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="330" as="sourcePoint" />
+            <mxPoint x="630" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="340" />
+              <mxPoint x="540" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZ-rnMWWsWiCWzkhqHqY-12" value="提取帧" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MZ-rnMWWsWiCWzkhqHqY-11">
+          <mxGeometry x="-0.8" y="-1" relative="1" as="geometry">
+            <mxPoint x="7" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZ-rnMWWsWiCWzkhqHqY-14" value="帧生成" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FFCCCC;fontSize=14;" vertex="1" connectable="0" parent="MZ-rnMWWsWiCWzkhqHqY-11">
+          <mxGeometry x="0.313" relative="1" as="geometry">
+            <mxPoint x="22" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZ-rnMWWsWiCWzkhqHqY-15" value="参考视频" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="870" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MZ-rnMWWsWiCWzkhqHqY-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MZ-rnMWWsWiCWzkhqHqY-7" target="MZ-rnMWWsWiCWzkhqHqY-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="340" as="sourcePoint" />
+            <mxPoint x="710" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="290" />
+              <mxPoint x="780" y="290" />
+              <mxPoint x="780" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZ-rnMWWsWiCWzkhqHqY-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MZ-rnMWWsWiCWzkhqHqY-3" target="MZ-rnMWWsWiCWzkhqHqY-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="530" as="sourcePoint" />
+            <mxPoint x="700" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="180" y="460" />
+              <mxPoint x="780" y="460" />
+              <mxPoint x="780" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZ-rnMWWsWiCWzkhqHqY-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MZ-rnMWWsWiCWzkhqHqY-4" target="MZ-rnMWWsWiCWzkhqHqY-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="990" y="490" as="sourcePoint" />
+            <mxPoint x="1040" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZ-rnMWWsWiCWzkhqHqY-19" value="合并" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MZ-rnMWWsWiCWzkhqHqY-18">
+          <mxGeometry x="-0.0364" y="3" relative="1" as="geometry">
+            <mxPoint x="7" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZ-rnMWWsWiCWzkhqHqY-20" value="数字人视频" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MZ-rnMWWsWiCWzkhqHqY-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MZ-rnMWWsWiCWzkhqHqY-1" target="MZ-rnMWWsWiCWzkhqHqY-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1000" y="490" as="sourcePoint" />
+            <mxPoint x="1050" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1010" y="220" />
+              <mxPoint x="1010" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZ-rnMWWsWiCWzkhqHqY-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MZ-rnMWWsWiCWzkhqHqY-15" target="MZ-rnMWWsWiCWzkhqHqY-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1140" y="480" as="sourcePoint" />
+            <mxPoint x="1190" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1010" y="380" />
+              <mxPoint x="1010" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZ-rnMWWsWiCWzkhqHqY-23" value="数字人" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;labelBackgroundColor=#FFCCCC;" vertex="1" connectable="0" parent="MZ-rnMWWsWiCWzkhqHqY-22">
+          <mxGeometry x="0.4941" y="2" relative="1" as="geometry">
+            <mxPoint y="2" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
