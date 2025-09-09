@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.2.0" pages="3">
   <diagram name="第 1 页" id="PO6dtQ1H3vzVMkOQYm9Q">
-    <mxGraphModel dx="1014" dy="850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="820" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,7 +67,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4G27WSCTzzqsrWpqQ-Bs-16" value="音色克隆" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="4G27WSCTzzqsrWpqQ-Bs-15" vertex="1" connectable="0">
+        <mxCell id="4G27WSCTzzqsrWpqQ-Bs-16" value="音色克隆" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;labelBackgroundColor=#FFCCCC;" parent="4G27WSCTzzqsrWpqQ-Bs-15" vertex="1" connectable="0">
           <mxGeometry x="0.275" y="1" relative="1" as="geometry">
             <mxPoint x="23" y="1" as="offset" />
           </mxGeometry>
@@ -78,7 +78,7 @@
             <mxPoint x="290" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4G27WSCTzzqsrWpqQ-Bs-18" value="特征提取" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="4G27WSCTzzqsrWpqQ-Bs-17" vertex="1" connectable="0">
+        <mxCell id="4G27WSCTzzqsrWpqQ-Bs-18" value="特征提取" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;labelBackgroundColor=#FFCCCC;" parent="4G27WSCTzzqsrWpqQ-Bs-17" vertex="1" connectable="0">
           <mxGeometry x="-0.13" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -103,7 +103,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4G27WSCTzzqsrWpqQ-Bs-21" value="数字人" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="4G27WSCTzzqsrWpqQ-Bs-20" vertex="1" connectable="0">
+        <mxCell id="4G27WSCTzzqsrWpqQ-Bs-21" value="数字人" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;labelBackgroundColor=#FFCCCC;" parent="4G27WSCTzzqsrWpqQ-Bs-20" vertex="1" connectable="0">
           <mxGeometry x="0.6783" y="-1" relative="1" as="geometry">
             <mxPoint x="22" y="-1" as="offset" />
           </mxGeometry>
@@ -245,7 +245,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="phIdfN4Gkz58Z7FrGDFd" name="第 3 页">
-    <mxGraphModel dx="820" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
