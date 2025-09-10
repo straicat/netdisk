@@ -395,16 +395,16 @@
         <mxCell id="vpI_gwYYtA-V3GrKg2pV-20" value="会员" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=LXGW WenKai;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="450" y="345" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vpI_gwYYtA-V3GrKg2pV-21" value="营销" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=LXGW WenKai;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="vpI_gwYYtA-V3GrKg2pV-21" value="营销" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=LXGW WenKai;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="630" y="345" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vpI_gwYYtA-V3GrKg2pV-22" value="财务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=LXGW WenKai;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="540" y="410" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vpI_gwYYtA-V3GrKg2pV-23" value="物流" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=LXGW WenKai;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="vpI_gwYYtA-V3GrKg2pV-23" value="物流" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=LXGW WenKai;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="450" y="410" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vpI_gwYYtA-V3GrKg2pV-24" value="风控" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=LXGW WenKai;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="vpI_gwYYtA-V3GrKg2pV-24" value="风控" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=LXGW WenKai;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="630" y="410" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vpI_gwYYtA-V3GrKg2pV-25" value="基础数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=LXGW WenKai;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
@@ -455,7 +455,7 @@
         <mxCell id="vpI_gwYYtA-V3GrKg2pV-37" value="物流平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=LXGW WenKai;" vertex="1" parent="1">
           <mxGeometry x="350" y="545" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vpI_gwYYtA-V3GrKg2pV-38" value="其他" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=LXGW WenKai;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="vpI_gwYYtA-V3GrKg2pV-38" value="其他" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=LXGW WenKai;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="940" y="540" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vpI_gwYYtA-V3GrKg2pV-39" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="vpI_gwYYtA-V3GrKg2pV-7" target="vpI_gwYYtA-V3GrKg2pV-1">
