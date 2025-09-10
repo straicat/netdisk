@@ -112,20 +112,47 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jiWqVG8EcyjxPtmrMRaj" name="第 2 页">
-    <mxGraphModel dx="820" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1554" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="MZ-rnMWWsWiCWzkhqHqY-1" value="分身讲题音频" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="870" y="200" width="120" height="40" as="geometry" />
+        <mxCell id="isKAxnOUhtA0PTi894Xj-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="isKAxnOUhtA0PTi894Xj-13" target="MZ-rnMWWsWiCWzkhqHqY-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="770" y="380" as="sourcePoint" />
+            <mxPoint x="880" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="780" y="500" />
+              <mxPoint x="780" y="380" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="MZ-rnMWWsWiCWzkhqHqY-2" value="AI常态形象" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="isKAxnOUhtA0PTi894Xj-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="MZ-rnMWWsWiCWzkhqHqY-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="520" as="sourcePoint" />
+            <mxPoint x="870" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="414" y="540" />
+              <mxPoint x="780" y="540" />
+              <mxPoint x="780" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="isKAxnOUhtA0PTi894Xj-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="d5Qjepk10TMZYrPrHpmr-2" target="isKAxnOUhtA0PTi894Xj-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="650" as="sourcePoint" />
+            <mxPoint x="750" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZ-rnMWWsWiCWzkhqHqY-1" value="分身讲题音频" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="870" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MZ-rnMWWsWiCWzkhqHqY-2" value="AI形象" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="120" y="320" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MZ-rnMWWsWiCWzkhqHqY-3" value="AI动作" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="120" y="400" width="120" height="40" as="geometry" />
+        <mxCell id="MZ-rnMWWsWiCWzkhqHqY-3" value="AI动作1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="354" y="400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MZ-rnMWWsWiCWzkhqHqY-4" value="过渡态视频" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="MZ-rnMWWsWiCWzkhqHqY-4" value="过渡态视频1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="640" y="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MZ-rnMWWsWiCWzkhqHqY-7" value="常态视频" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
@@ -147,14 +174,14 @@
             <mxPoint x="450" y="480" as="sourcePoint" />
             <mxPoint x="500" y="430" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="540" y="420" />
-              <mxPoint x="540" y="380" />
+              <mxPoint x="550" y="420" />
+              <mxPoint x="550" y="380" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="MZ-rnMWWsWiCWzkhqHqY-13" value="提取帧" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MZ-rnMWWsWiCWzkhqHqY-10">
           <mxGeometry x="-0.4913" y="3" relative="1" as="geometry">
-            <mxPoint x="143" y="3" as="offset" />
+            <mxPoint x="-16" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MZ-rnMWWsWiCWzkhqHqY-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MZ-rnMWWsWiCWzkhqHqY-7" target="MZ-rnMWWsWiCWzkhqHqY-4">
@@ -162,19 +189,19 @@
             <mxPoint x="580" y="330" as="sourcePoint" />
             <mxPoint x="630" y="280" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="540" y="340" />
-              <mxPoint x="540" y="380" />
+              <mxPoint x="550" y="340" />
+              <mxPoint x="550" y="380" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="MZ-rnMWWsWiCWzkhqHqY-12" value="提取帧" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MZ-rnMWWsWiCWzkhqHqY-11">
           <mxGeometry x="-0.8" y="-1" relative="1" as="geometry">
-            <mxPoint x="7" y="-1" as="offset" />
+            <mxPoint x="19" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MZ-rnMWWsWiCWzkhqHqY-14" value="补帧" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FFCCCC;fontSize=14;" vertex="1" connectable="0" parent="MZ-rnMWWsWiCWzkhqHqY-11">
           <mxGeometry x="0.313" relative="1" as="geometry">
-            <mxPoint x="12" as="offset" />
+            <mxPoint x="32" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MZ-rnMWWsWiCWzkhqHqY-15" value="参考视频" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
@@ -196,7 +223,7 @@
             <mxPoint x="650" y="530" as="sourcePoint" />
             <mxPoint x="700" y="480" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="180" y="460" />
+              <mxPoint x="414" y="460" />
               <mxPoint x="780" y="460" />
               <mxPoint x="780" y="380" />
             </Array>
@@ -221,7 +248,7 @@
             <mxPoint x="1000" y="490" as="sourcePoint" />
             <mxPoint x="1050" y="440" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1010" y="220" />
+              <mxPoint x="1010" y="140" />
               <mxPoint x="1010" y="300" />
             </Array>
           </mxGeometry>
@@ -240,6 +267,97 @@
           <mxGeometry x="0.4941" y="2" relative="1" as="geometry">
             <mxPoint y="2" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="d5Qjepk10TMZYrPrHpmr-2" value="AI动作2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="354" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="isKAxnOUhtA0PTi894Xj-1" value="讲题切片音视频" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="405.2" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="isKAxnOUhtA0PTi894Xj-3" value="讲题切片音频" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="605.2" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="isKAxnOUhtA0PTi894Xj-4" value="AI形象音频" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="605.2" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="isKAxnOUhtA0PTi894Xj-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="isKAxnOUhtA0PTi894Xj-1" target="isKAxnOUhtA0PTi894Xj-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="465.2" y="90" as="sourcePoint" />
+            <mxPoint x="515.2" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="isKAxnOUhtA0PTi894Xj-6" value="音频分离" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="isKAxnOUhtA0PTi894Xj-5">
+          <mxGeometry x="-0.13" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="isKAxnOUhtA0PTi894Xj-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MZ-rnMWWsWiCWzkhqHqY-2" target="isKAxnOUhtA0PTi894Xj-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="240" as="sourcePoint" />
+            <mxPoint x="460" y="100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="180" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="isKAxnOUhtA0PTi894Xj-8" value="音频分离" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="isKAxnOUhtA0PTi894Xj-7">
+          <mxGeometry x="-0.13" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="isKAxnOUhtA0PTi894Xj-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="isKAxnOUhtA0PTi894Xj-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="575.2" y="270" as="sourcePoint" />
+            <mxPoint x="845.2" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="745.2" y="60" />
+              <mxPoint x="745.2" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="isKAxnOUhtA0PTi894Xj-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="isKAxnOUhtA0PTi894Xj-4" target="MZ-rnMWWsWiCWzkhqHqY-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="745.2" y="80" as="sourcePoint" />
+            <mxPoint x="845.2" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="745.2" y="220" />
+              <mxPoint x="745.2" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="isKAxnOUhtA0PTi894Xj-11" value="音色克隆" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;labelBackgroundColor=#FFCCCC;" vertex="1" connectable="0" parent="isKAxnOUhtA0PTi894Xj-10">
+          <mxGeometry x="0.275" y="1" relative="1" as="geometry">
+            <mxPoint x="23" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="isKAxnOUhtA0PTi894Xj-12" value="特征提取" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;labelBackgroundColor=#FFCCCC;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="580" y="290.0000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="isKAxnOUhtA0PTi894Xj-13" value="过渡态视频2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="640" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="isKAxnOUhtA0PTi894Xj-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="MZ-rnMWWsWiCWzkhqHqY-7" target="isKAxnOUhtA0PTi894Xj-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="340" as="sourcePoint" />
+            <mxPoint x="710" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="320" />
+              <mxPoint x="560" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="isKAxnOUhtA0PTi894Xj-15" value="提取帧" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="isKAxnOUhtA0PTi894Xj-14">
+          <mxGeometry x="-0.8" y="-1" relative="1" as="geometry">
+            <mxPoint x="19" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="isKAxnOUhtA0PTi894Xj-16" value="补帧" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FFCCCC;fontSize=14;" vertex="1" connectable="0" parent="isKAxnOUhtA0PTi894Xj-14">
+          <mxGeometry x="0.313" relative="1" as="geometry">
+            <mxPoint x="40" y="40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="isKAxnOUhtA0PTi894Xj-21" value="提取帧" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="510" y="500" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
