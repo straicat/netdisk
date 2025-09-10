@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="4G27WSCTzzqsrWpqQ-Bs-1" value="课件切片音视频" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="80" y="40" width="120" height="40" as="geometry" />
+          <mxGeometry x="40" y="40" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4G27WSCTzzqsrWpqQ-Bs-2" value="AI形象" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="80" y="260" width="120" height="40" as="geometry" />
+          <mxGeometry x="40" y="260" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4G27WSCTzzqsrWpqQ-Bs-3" value="AI形象特征" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="280" y="320" width="120" height="40" as="geometry" />
