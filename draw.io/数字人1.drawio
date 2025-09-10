@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.2.0" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.2.0" pages="4">
   <diagram name="第 1 页" id="PO6dtQ1H3vzVMkOQYm9Q">
     <mxGraphModel dx="820" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -389,6 +389,41 @@
           <mxGeometry x="0.2824" y="1" relative="1" as="geometry">
             <mxPoint x="12" y="1" as="offset" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="6VagTfMX2yMWuSHP85cR" name="第 4 页">
+    <mxGraphModel dx="820" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rX4DHwnxOXoDi4Lghyng-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="640" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="rX4DHwnxOXoDi4Lghyng-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="140" y="145" width="413.33" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="rX4DHwnxOXoDi4Lghyng-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="570" y="145" width="168.89" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="rX4DHwnxOXoDi4Lghyng-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="570" y="360" width="168.89" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="rX4DHwnxOXoDi4Lghyng-5" value="课件区" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="281.65999999999997" y="240" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rX4DHwnxOXoDi4Lghyng-6" value="primaryVideo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="289.99999999999994" y="300" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rX4DHwnxOXoDi4Lghyng-7" value="老师摄像头区" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="589.44" y="160" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rX4DHwnxOXoDi4Lghyng-8" value="overlayVideo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="589.44" y="200" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rX4DHwnxOXoDi4Lghyng-9" value="学生摄像头区" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="589.44" y="380" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
