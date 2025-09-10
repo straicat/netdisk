@@ -181,7 +181,7 @@
         </mxCell>
         <mxCell id="MZ-rnMWWsWiCWzkhqHqY-13" value="提取帧" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MZ-rnMWWsWiCWzkhqHqY-10">
           <mxGeometry x="-0.4913" y="3" relative="1" as="geometry">
-            <mxPoint x="-16" y="3" as="offset" />
+            <mxPoint x="-26" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MZ-rnMWWsWiCWzkhqHqY-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MZ-rnMWWsWiCWzkhqHqY-7" target="MZ-rnMWWsWiCWzkhqHqY-4">
