@@ -458,6 +458,30 @@
         <mxCell id="vpI_gwYYtA-V3GrKg2pV-38" value="其他" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=LXGW WenKai;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="940" y="540" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="vpI_gwYYtA-V3GrKg2pV-39" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fillColor=#FFE6CC;" edge="1" parent="1" source="vpI_gwYYtA-V3GrKg2pV-7" target="vpI_gwYYtA-V3GrKg2pV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="839" y="370" as="sourcePoint" />
+            <mxPoint x="740" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vpI_gwYYtA-V3GrKg2pV-40" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.885;exitY=0;exitDx=0;exitDy=0;entryX=0.886;entryY=1.056;entryDx=0;entryDy=0;fillColor=#FFE6CC;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="vpI_gwYYtA-V3GrKg2pV-7" target="vpI_gwYYtA-V3GrKg2pV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="270" as="sourcePoint" />
+            <mxPoint x="530" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vpI_gwYYtA-V3GrKg2pV-41" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fillColor=#FFE6CC;" edge="1" parent="1" source="vpI_gwYYtA-V3GrKg2pV-7" target="vpI_gwYYtA-V3GrKg2pV-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="240" as="sourcePoint" />
+            <mxPoint x="500" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vpI_gwYYtA-V3GrKg2pV-42" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#FFE6CC;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="968" y="480" as="sourcePoint" />
+            <mxPoint x="968" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
