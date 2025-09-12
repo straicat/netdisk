@@ -291,6 +291,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="cmi3LWA8jbqdfa3M_yhr-22" value="裁剪/填充" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cmi3LWA8jbqdfa3M_yhr-16">
+          <mxGeometry x="-0.2131" relative="1" as="geometry">
+            <mxPoint x="126" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="cmi3LWA8jbqdfa3M_yhr-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MZ-rnMWWsWiCWzkhqHqY-4" target="MZ-rnMWWsWiCWzkhqHqY-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="650" y="470" as="sourcePoint" />
@@ -321,6 +326,9 @@
           <mxGeometry x="0.3244" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="cmi3LWA8jbqdfa3M_yhr-23" value="裁剪/填充" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="530" y="520" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
