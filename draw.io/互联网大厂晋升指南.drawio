@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.1.2" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.0" pages="6">
   <diagram name="第 1 页" id="QTSUT6fX99vjoxkvruC4">
     <mxGraphModel dx="1521" dy="971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -611,6 +611,50 @@
         </mxCell>
         <mxCell id="nJ-ARQND0go6meXb2eFN-16" value="AARRR模型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=LXGW WenKai;" vertex="1" parent="1">
           <mxGeometry x="345" y="370" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="4yvyr6S7kMeWWkWS2ehM" name="第 6 页">
+    <mxGraphModel dx="1215" dy="954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OvX-dp9ydfOxNpu6iyO6-1" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="360" as="sourcePoint" />
+            <mxPoint x="720" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OvX-dp9ydfOxNpu6iyO6-2" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="120" as="sourcePoint" />
+            <mxPoint x="480" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OvX-dp9ydfOxNpu6iyO6-4" value="&lt;div style=&quot;line-height: 200%;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;团队规划&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;团队执行&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;团队汇报&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=LXGW WenKai;fontSize=18;spacing=2;spacingTop=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="150" width="190" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="OvX-dp9ydfOxNpu6iyO6-5" value="&lt;div style=&quot;line-height: 200%;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;风险管理&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 200%;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;问题处理&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 200%;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;资源协调&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=LXGW WenKai;fontSize=18;spacing=2;spacingTop=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="380" width="190" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="OvX-dp9ydfOxNpu6iyO6-6" value="&lt;div style=&quot;line-height: 200%;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;团队建设&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 200%;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;团队培养&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 200%;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;团队激励&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=LXGW WenKai;fontSize=18;spacing=2;spacingTop=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="380" width="190" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="OvX-dp9ydfOxNpu6iyO6-7" value="&lt;div style=&quot;line-height: 200%;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;团队构建&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 200%;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;团队运作&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 200%;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;团队考核&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=LXGW WenKai;fontSize=18;spacing=2;spacingTop=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="150" width="190" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="OvX-dp9ydfOxNpu6iyO6-8" value="事" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=LXGW WenKai;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="710" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OvX-dp9ydfOxNpu6iyO6-9" value="人" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=LXGW WenKai;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="190" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OvX-dp9ydfOxNpu6iyO6-10" value="管" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=LXGW WenKai;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="450" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OvX-dp9ydfOxNpu6iyO6-11" value="理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=LXGW WenKai;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="450" y="610" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
